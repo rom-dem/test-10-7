@@ -8,7 +8,7 @@ const GlobalStyles = createGlobalStyle`
 }
 
 body {
-  margin: 0px;
+  margin: 0;
 }
 
 ul, 
